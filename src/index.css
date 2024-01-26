@@ -172,6 +172,10 @@ h1 {
   align-items: center;
 }
 
+.center {
+  text-align: center;
+}
+
 .cart-item-actions button:hover,
 .cart-item-actions button:active {
   background-color: #1d1a16;
